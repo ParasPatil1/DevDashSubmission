@@ -16,7 +16,7 @@ const Form = () => {
     try {
       const axiosConfig = {
         method: "post",
-        url: `http://localhost:3000/api/v1/${requestType}`, // To update with Codement actual server later
+        url: `http://localhost:3000/api/v1/${requestType}`, // To update with CodeTranslator actual server later
         headers: {
           "Content-Type": "application/json",
         },

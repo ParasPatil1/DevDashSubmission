@@ -9,9 +9,8 @@ const App = () => {
           marginTop: "4rem"
         }}
       >
-        Codement!
+        CodeTranslator!
         <br/>
-        <img src="/Codement.png" height="40px" width="40px" alt="" />
       </h1>
     </>
   );

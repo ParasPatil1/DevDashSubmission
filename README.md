@@ -15,11 +15,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repo:
 
-bash
-git clone https://github.com/yourusername/your-repo-name.git
-
-
-
 Install NPM packages in both the client and server directories:
 cd client
 npm install
