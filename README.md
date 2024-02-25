@@ -2,10 +2,13 @@
 This project is a full-stack application that allows users to translate, optimize, and review their code. It uses a React front-end and an Express.js back-end, and communicates with the Google Generative AI.
 
 Prerequisites
+
 Node.js
+
 npm
 
 Getting Started
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 Installation
