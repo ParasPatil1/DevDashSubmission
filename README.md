@@ -40,7 +40,7 @@ The server will start on the port specified in the PORT environment variable, or
 
 Start the client:
 cd client
-npm start
+npm run dev
 
 The client will start on port 3000, or another port if 3000 is in use.
 
